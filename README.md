@@ -7,21 +7,21 @@
 > SatoshiBento helps you store and certificate your file permanently with the digest on the bitcoin-network and the original on the IPFS.
     
 ## Design
-<img height="300" src="./resource/satoshibento-design.png">
+<img height="400" src="./resource/satoshibento-design.png">
 
 ## SatoshiBento-Shop
-- vue
-- Public
+- satoshibento.io
+- Public / vue
 - Repository : https://github.com/ideajoo/satoshibento-shop
 
 ## SatoshiBento-Clerk
-- node.js
-- Private
+- admin-api
+- Private / node.js
 - Repository : https://github.com/ideajoo/satoshibento-clerk
 
 ## SatoshiBento-Receipt
-- golang 
-- Private
+- core
+- Private / golang
 - Repository : https://github.com/ideajoo/satoshibento-receipt
 - Dependency : https://github.com/ideajoo/go-bitcoin-opreturn
 - Dependency : https://github.com/ideajoo/go-bitcoin-cli-light
