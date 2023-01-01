@@ -10,7 +10,7 @@
 <img height="400" src="./resource/satoshibento-design.png">
 
 ## SatoshiBento-Shop
-- satoshibento.io
+- https://satoshibento.io
 - Public / vue
 - Repository : https://github.com/ideajoo/satoshibento-shop
 
