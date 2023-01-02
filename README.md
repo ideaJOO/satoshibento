@@ -19,19 +19,19 @@
 <img height="400" src="./resource/satoshibento-design.png">
 
 # SatoshiBento OrderCycle
-<img height="357" src="./resource/satoshibento-ordercycle.png">
+<img height="300" src="./resource/satoshibento-ordercycle.png">
 
-## SatoshiBento SubmitOrder -> OrderStatus:Pending
-<img height="357" src="./resource/satoshibento-ordercycle-pending.png">
+### SubmitOrder -> OrderStatus:Pending
+<img height="300" src="./resource/satoshibento-ordercycle-pending.png">
 
-## SatoshiBento OrderStatus:Pending -> OrderStatus:InProgress
-<img height="357" src="./resource/satoshibento-ordercycle-inprogress.png">
+### OrderStatus:Pending -> OrderStatus:InProgress
+<img height="300" src="./resource/satoshibento-ordercycle-inprogress.png">
 
-## SatoshiBento OrderStatus:InProgress -> OrderStatus:Complete
-<img height="357" src="./resource/satoshibento-ordercycle-complete.png">
+### OrderStatus:InProgress -> OrderStatus:Complete
+<img height="300" src="./resource/satoshibento-ordercycle-complete.png">
 
-## SatoshiBento OrderStatus:Pending -> OrderStatus:Expired
-<img height="357" src="./resource/satoshibento-ordercycle-expired.png">
+### OrderStatus:Pending -> OrderStatus:Expired
+<img height="300" src="./resource/satoshibento-ordercycle-expired.png">
 
 
 # SatoshiBento-Shop
